@@ -1,0 +1,44 @@
+.header_div{
+    color: white;
+    font-family: 'Lobster', cursive;
+    }
+    body{
+    background-color:blueviolet;
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    }
+  
+ #ear{
+     height: 50px;
+     width: 50px;
+    }
+
+
+
+
+
+   
+     
+        #Startbutton{
+        font-family: 'Alumni Sans', sans-serif;
+        font-size: 24px;
+        margin-top: 10px;
+        letter-spacing: 1px;
+        }
+        #cow,#lion,#cat,#dog{
+            height:200px ;
+            width: 200px;
+            border: 3px grey solid;
+            margin-right: 10px;
+        }
+        .copy-right-footer{
+        position: fixed;
+        color: rgb(7, 5, 5);
+        background-color:white ;
+        line-height: 2;
+        font-size: 18px;
+        bottom: 0;
+        text-align: center;
+        width: 100%;
+        text-shadow: 5px 5px 5px grey;
+        }
